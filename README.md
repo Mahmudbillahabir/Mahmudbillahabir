@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Mahmudbillahabir
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mahmudabir48@gmail.com
+# Hi, I'm Abir 👋
 
-<!---
-Mahmudbillahabir/Mahmudbillahabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+QA & SEO specialist at [UbiComply](https://ubicomply.ai). I test and help grow compliance-automation software for frameworks like HIPAA and the EU Cyber Resilience Act.
+
+### 🔍 What I do
+- **QA testing:** writing test checklists, running functional and regression tests, and reporting bugs on compliance platforms
+- **SEO:** site audits, keyword research and on-page optimization
+- **Automation:** building small tools that speed up QA and reporting work
+
+### 🛠️ Tools & tech
+TypeScript · Java (learning) · Python · Ruby · Git
+
+### 📌 Featured project
+- [**QA-seo**](https://github.com/Mahmudbillahabir/QA-seo): generates QA results and keyword research for SEO audits
+
+### 🌱 Currently
+- Learning Java
+- Open to collaborating on QA automation and SEO tools
+
+### 📫 Reach me
+- Email: mahmudabir48@gmail.com
+- Threads: [@mahmud.b.abir](https://www.threads.net/@mahmud.b.abir)
