@@ -18,5 +18,5 @@ TypeScript · Java (learning) · Python · Ruby · Git
 - Open to collaborating on QA automation and SEO tools
 
 ### 📫 Reach me
-- Email: mahmudabir48@gmail.com
+- Email: abir@ubitrix.com
 - Threads: [@mahmud.b.abir](https://www.threads.net/@mahmud.b.abir)
