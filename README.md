@@ -8,7 +8,11 @@ QA & SEO specialist at [UbiComply](https://ubicomply.ai). I test and help grow c
 - **Automation:** building small tools that speed up QA and reporting work
 
 ### 🛠️ Tools & tech
-TypeScript · Java (learning) · Python · Ruby · Git
+- **QA & bug tracking:** ClickUp, test checklists, functional and regression testing
+- **SEO & analytics:** Ubersuggest site audits, keyword research, Google Analytics
+- **Compliance frameworks:** HIPAA, EU Cyber Resilience Act (CRA), CMMC, ISO 9001, PCI DSS
+- **Docs & AI:** Google Sheets, Microsoft Word, Claude
+- **Code:** TypeScript, Java (learning), Git & GitHub
 
 ### 📌 Featured project
 - [**QA-seo**](https://github.com/Mahmudbillahabir/QA-seo): generates QA results and keyword research for SEO audits
